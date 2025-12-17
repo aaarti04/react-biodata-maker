@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aaarti04/react-biodata-maker/static/css/main.f1e73b11.css",
+    "main.js": "/aaarti04/react-biodata-maker/static/js/main.e50eb123.js",
+    "static/js/213.ed803065.chunk.js": "/aaarti04/react-biodata-maker/static/js/213.ed803065.chunk.js",
+    "static/js/455.8d4ff3a6.chunk.js": "/aaarti04/react-biodata-maker/static/js/455.8d4ff3a6.chunk.js",
+    "static/js/453.615aea37.chunk.js": "/aaarti04/react-biodata-maker/static/js/453.615aea37.chunk.js",
+    "index.html": "/aaarti04/react-biodata-maker/index.html",
+    "main.f1e73b11.css.map": "/aaarti04/react-biodata-maker/static/css/main.f1e73b11.css.map",
+    "main.e50eb123.js.map": "/aaarti04/react-biodata-maker/static/js/main.e50eb123.js.map",
+    "213.ed803065.chunk.js.map": "/aaarti04/react-biodata-maker/static/js/213.ed803065.chunk.js.map",
+    "455.8d4ff3a6.chunk.js.map": "/aaarti04/react-biodata-maker/static/js/455.8d4ff3a6.chunk.js.map",
+    "453.615aea37.chunk.js.map": "/aaarti04/react-biodata-maker/static/js/453.615aea37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e73b11.css",
+    "static/js/main.e50eb123.js"
+  ]
+}
